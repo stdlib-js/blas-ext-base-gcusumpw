@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-06-02)
 
 <section class="features">
 
@@ -16,12 +16,24 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`25288d7`](https://github.com/stdlib-js/stdlib/commit/25288d7f869b2d13139e742e88601419463423fd) - update implementation to preserve signed zeros
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`3e9f3a0`](https://github.com/stdlib-js/stdlib/commit/3e9f3a0bdc4c231521f39148dbff889815bae6d7) - **docs:** fix missing period _(by Athan Reines)_
+-   [`25288d7`](https://github.com/stdlib-js/stdlib/commit/25288d7f869b2d13139e742e88601419463423fd) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
 -   [`6c90e8f`](https://github.com/stdlib-js/stdlib/commit/6c90e8fa6ad8f6bf254e6479d1a3ece17b5e92da) - **feat:** add accessor arrays support to `blas/ext/base/gcusumpw` [(#5012)](https://github.com/stdlib-js/stdlib/pull/5012) _(by Muhammad Haris)_
 -   [`c0a0110`](https://github.com/stdlib-js/stdlib/commit/c0a0110f91f4b6f2bef48d73c3a539d03f9dec9c) - **refactor:** update `blas/ext/base/gcusumpw` to follow current project conventions [(#4551)](https://github.com/stdlib-js/stdlib/pull/4551) _(by Muhammad Haris, Athan Reines)_
 
