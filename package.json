@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-gcusumpw",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Calculate the cumulative sum of strided array elements using pairwise summation.",
   "license": "Apache-2.0",
   "author": {
@@ -93,7 +93,6 @@
     "typed",
     "array"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
